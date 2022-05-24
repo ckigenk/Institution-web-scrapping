@@ -1,2 +1,2 @@
-PATH = r""
-URL="https://twitter.com/i/flow/login"
+PATH = r"C:/SeleniumDrivers/chromedriver.exe"
+URL='http://www.icipe.org/about/staff'
